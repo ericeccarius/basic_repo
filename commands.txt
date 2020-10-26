@@ -2,3 +2,7 @@ Created a new repo with desktop version basic_repo
 created files within visual studio
 pushed to github
 edited in visual studio
+made changes in summary
+commit to main
+push orgin
+upload this file  for assignment
