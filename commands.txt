@@ -1,0 +1,2 @@
+Created a new repo with desktop version basic_repo
+created files within visual studio
